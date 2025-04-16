@@ -1,3 +1,6 @@
+This fork adds other programmers besides STLink:
+ - Altera USB-Blaster
+
 K1921VKx SDK port for [PlatformIO](http://platformio.org)
 =========
 [![PlatformIO Registry](https://badges.registry.platformio.org/packages/dcvostok/tool/framework-k1921vk-sdk.svg)](https://registry.platformio.org/tools/dcvostok/framework-k1921vk-sdk)
